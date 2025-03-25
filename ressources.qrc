@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>add-square-svgrepo-com.svg</file>
+        <file>chart-square-svgrepo-com.svg</file>
+        <file>export-svgrepo-com.svg</file>
+        <file>inbox-archive-svgrepo-com.svg</file>
+        <file>square-top-down-svgrepo-com.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>user-circle-svgrepo-com (1).svg</file>
+        <file>log-out-1-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
